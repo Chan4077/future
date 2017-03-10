@@ -27,7 +27,6 @@ Steps to install:
 2.
     ```bash
     ng new <YOUR-PROJECT-APP>
-    
     cd <YOUR-PROJECT-APP>
     ```
     
