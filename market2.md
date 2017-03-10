@@ -25,6 +25,7 @@ What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2]
 2. 
     ```
     ng new <YOUR-PROJECT-APP>
+    
     cd <YOUR-PROJECT-APP>
     ```
 3. `ng serve`
