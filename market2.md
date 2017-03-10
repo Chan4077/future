@@ -24,7 +24,7 @@ Steps to install:
 
 1. `npm install -g @angular/cli --For @angular/cli 1.0.0-rc.0 and above`
     > Note that for `angular-cli` versions below @angular/cli 1.0.0-rc.0, please use `npm install -g angular-cli`
-    2.
+2.
     ```bash
     ng new <YOUR-PROJECT-APP>
     
