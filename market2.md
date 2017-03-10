@@ -18,8 +18,12 @@ What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2]
 
 **Q.** How on earth do you deploy Angular2 code?
 
-**A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli). Steps to install:
+**A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli).
+
+Steps to install:
+
 1. `npm install -g @angular/cli --For @angular/cli 1.0.0-rc.0 and above`
+
 > Note that for `angular-cli` versions below @angular/cli 1.0.0-rc.0, please use `npm install -g angular-cli`
 
 2. 
