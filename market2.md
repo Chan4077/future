@@ -32,6 +32,8 @@ Steps to install:
     
     cd <YOUR-PROJECT-APP>
     ```
+    
 3. `ng serve`
+
 ### NOTES
 <!--TODO: Add notes-->
