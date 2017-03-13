@@ -4,6 +4,7 @@
 - [Current Status](#current-status)
 - [Q & A](#q--a)
 - [NOTES](#notes)
+- [Screenshots](#screenshots)
 
 ---
 ### About market2
@@ -31,3 +32,8 @@ The website is currently in **BETA**.
 
 ### NOTES
 <!--TODO: Add notes-->
+
+### Screenshots
+Some screenshots:
+
+For more screenshots, go [here](../img/market2)
