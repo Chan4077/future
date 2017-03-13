@@ -5,6 +5,7 @@
 - [Q & A](#q--a)
 - [NOTES](#notes)
 
+---
 ### About market2
 What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2](https://github.com/angular/angularfirebase2), [Angular 2](https://github.com/angular/angular), [Angular Material 2](https://github.com/angular/material2), [Typescript](https://typescriptlang.org) and [Firebase](https://github.com/firebase) into one. <!--TODO: Make about longer-->
 
