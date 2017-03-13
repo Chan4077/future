@@ -26,9 +26,9 @@ The website is currently in **BETA**.
 
 **A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli). View the [wiki](https://github.com/angular/angular-cli/wiki) for more information about how to `init`, `build` and `serve`.
 
-**Q.** Where can I find the docs for Angular2?
+**Q.** Where can I find the docs for Angular2 ang AngularMaterial 2?
 
-**A.** Here you go: [Angular2 Docs](https://angular.io)
+**A.** Here you go: [Angular2 Docs](https://angular.io) and [Angular Material 2 Docs](https://material.angular.io)
 
 ### NOTES
 <!--TODO: Add notes-->
