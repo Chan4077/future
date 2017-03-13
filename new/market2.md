@@ -35,16 +35,25 @@ The website is currently in **BETA**.
 
 ### Screenshots
 Some screenshots:
+
+- Starting up the website:
 ![Starting up Market2...](../img/market2/market2_1.jpg)
 
+- A first look of the website:
 ![A first look](../img/market2/market2_2.jpg)
 
+- Heading to the account page... to find random letters! _(This was deliberate to test the `Router`)_:
 ![Head to the account... to find random letters!](../img/market2/market2_3.jpg)
 
+- A disclaimer on the about screen... to find out that the website is just a DEMO!! _(Don't worry: that will be updated soon)_:
 ![A disclaimer on the about screen... to find that it is just a DEMO?!?](../img/market2/market2_4.jpg)
 
+- Extra content on the right sidenav: Messages where you can communicate with friends on what to buy and a shopping list to help you from remembering what you bought! _(Yup, the icons seem misaligned: I will fix them soon.)_:
 ![Extra content on the right of the screen: Messages and your shopping list!](../img/market2/market2_5.jpg)
 
+- And there's a menu! _(insert dank.gif here)_:
 ![And there's a menu!!](../img/market2/market2_6.jpg)
 
 For more screenshots, go [here](../img/market2)
+
+:love: Support me on Github!
