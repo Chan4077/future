@@ -20,7 +20,7 @@ The website is currently in **BETA**.
 
 **Q.** Where can I find the website?
 
-**A.** The website is [here](https://market2beta.firebaseapp.com/), ~~although if you view it now, it will show an error as I have not deployed the code yet and am testing it on [@angular/cli](https://github.com/angular/angular-cli).~~  **UPDATE**: The website should be loading now as I have already done `firebase deploy`. You should not be able to see any problems or issues as of now, but if you see one, please open a [new issue](https://github.com/Chan4077/market2/issues/new).
+**A.** The website is [here](https://market2-ed1e4.firebaseapp.com/market), ~~although if you view it now, it will show an error as I have not deployed the code yet and am testing it on [@angular/cli](https://github.com/angular/angular-cli).~~  **UPDATE**: The website should be loading now as I have already done `firebase deploy`. You should not be able to see any problems or issues as of now, but if you see one, please open a [new issue](https://github.com/Chan4077/market2/issues/new). **UPDATE No. 2:** The link to the website has updated.
 
 **Q.** How on earth do you deploy Angular2 code?
 
