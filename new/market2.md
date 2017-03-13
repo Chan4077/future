@@ -56,4 +56,4 @@ Some screenshots:
 
 For more screenshots, go [here](../img/market2)
 
-:love: Support me on Github!
+:heart: Support me on Github!
