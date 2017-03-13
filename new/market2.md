@@ -35,5 +35,16 @@ The website is currently in **BETA**.
 
 ### Screenshots
 Some screenshots:
+![Starting up Market2...](../img/market2/market2_1.jpg)
+
+![A first look](../img/market2/market2_2.jpg)
+
+![Head to the account... to find random letters!](../img/market2/market2_3.jpg)
+
+![A disclaimer on the about screen... to find that it is just a DEMO?!?](../img/market2/market2_4.jpg)
+
+![Extra content on the right of the screen: Messages and your shopping list!](../img/market2/market2_5.jpg)
+
+![And there's a menu!!](../img/market2/market2_6.jpg)
 
 For more screenshots, go [here](../img/market2)
