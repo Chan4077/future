@@ -1,36 +1,32 @@
 # market2
 ## Table of contents
 - [About market2](#about-market2)
+- [Current Status](#current-status)
 - [Q & A](#q--a)
 - [NOTES](#notes)
 
 ### About market2
 What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2](https://github.com/angular/angularfirebase2), [Angular 2](https://github.com/angular/angular), [Angular Material 2](https://github.com/angular/material2), [Typescript](https://typescriptlang.org) and [Firebase](https://github.com/firebase) into one. <!--TODO: Make about longer-->
 
+### Current Status
+The website is currently in **BETA**.
+
 ### Q & A
 **Q.** Where's the source code? I want it!!
 
-**A.** Unfortunately, I'm still working on it and it will come out as soon as possible. <!--TODO: Add link to source code for market2-->
+**A.** ~~Unfortunately, I'm still working on it and it will come out as soon as possible.~~ **UPDATE**: The source code is available [here](https://github.com/Chan4077/market2).
 
 **Q.** Where can I find the website?
 
-**A.** The website is [here](https://market2beta.firebaseapp.com/), although if you view it now, it will show an error as I have not deployed the code yet and am testing it on [@angular/cli](https://github.com/angular/angular-cli). <!--TODO: Make website deploy-->
+**A.** The website is [here](https://market2beta.firebaseapp.com/), ~~although if you view it now, it will show an error as I have not deployed the code yet and am testing it on [@angular/cli](https://github.com/angular/angular-cli).~~  **UPDATE**: The website should be loading now as I have already done `firebase deploy`. You should not be able to see any problems or issues as of now, but if you see one, please open a [new issue](https://github.com/Chan4077/market2/issues/new).
 
 **Q.** How on earth do you deploy Angular2 code?
 
-**A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli).
+**A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli). View the [wiki](https://github.com/angular/angular-cli/wiki) for more information about how to `init`, `build` and `serve`.
 
-Steps to install:
+**Q.** Where can I find the docs for Angular2?
 
-1. `npm install -g @angular/cli` --> For @angular/cli 1.0.0-rc.0 and above
-    > Note that for `angular-cli` versions below @angular/cli 1.0.0-rc.0, please use `npm install -g angular-cli`    
-2.
-    ```bash
-    ng new <YOUR-PROJECT-APP>
-    cd <YOUR-PROJECT-APP>
-    ```
-    
-3. `ng serve`
+**A.** Here you go: [Angular2 Docs](https://angular.io)
 
 ### NOTES
 <!--TODO: Add notes-->
