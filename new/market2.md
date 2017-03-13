@@ -36,7 +36,7 @@ The website is currently in **BETA**.
 ### Screenshots
 Some screenshots:
 
-- Starting up the website _(NOTE: I copied the CSS from Google Play Newsstand's startup page viewable on load [here](https://play.google.com/newsstand/web/home))_:
+- Starting up the website _(NOTE: I copied the CSS from Google Play Newsstand's startup page viewable on load [here](https://newsstand.google.com))_:
 ![Starting up Market2...](../img/market2/market2_1.jpg)
 
 - A first look of the website _(Dat Mackbook Pro 2016 tho...)_:
