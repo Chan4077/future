@@ -36,13 +36,13 @@ The website is currently in **BETA**.
 ### Screenshots
 Some screenshots:
 
-- Starting up the website:
+- Starting up the website _(NOTE: I copied the CSS from Google Play Newsstand's startup page viewable on load [here](https://play.google.com/newsstand/web/home))_:
 ![Starting up Market2...](../img/market2/market2_1.jpg)
 
-- A first look of the website:
+- A first look of the website _(Dat Mackbook Pro 2016 tho...)_:
 ![A first look](../img/market2/market2_2.jpg)
 
-- Heading to the account page... to find random letters! _(This was deliberate to test the `Router`)_:
+- Heading to the account page... to find random letters! _(This was deliberate to test Angular's `Router` and this page will be updated soon)_:
 ![Head to the account... to find random letters!](../img/market2/market2_3.jpg)
 
 - A disclaimer on the about screen... to find out that the website is just a DEMO!! _(Don't worry: that will be updated soon)_:
@@ -51,7 +51,7 @@ Some screenshots:
 - Extra content on the right sidenav: Messages where you can communicate with friends on what to buy and a shopping list to help you from remembering what you bought! _(Yup, the icons seem misaligned: I will fix them soon.)_:
 ![Extra content on the right of the screen: Messages and your shopping list!](../img/market2/market2_5.jpg)
 
-- And there's a menu! _(insert dank.gif here)_:
+- And there's a menu! _(NOTE: The settings button will open a `Settings dialog` which will save to `localStorage` -> Just to be technical here. In human speak, it basically saves the settings for you!! :smile:)_:
 ![And there's a menu!!](../img/market2/market2_6.jpg)
 
 For more screenshots, go [here](../img/market2)
