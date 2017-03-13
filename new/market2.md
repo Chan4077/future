@@ -31,7 +31,9 @@ The website is currently in **BETA**.
 **A.** Here you go: [Angular2 Docs](https://angular.io) and [Angular Material 2 Docs](https://material.angular.io)
 
 ### NOTES
-<!--TODO: Add notes-->
+- I am planning to release a prerelease version every 1 week _(or 2 weeks?)_ <!--TODO: Decide for no. of weeks before next release-->
+- The reason why I changed the link to the website was because I had to change it when it comes out of beta, thus, I saved time by doing so earlier.
+- If you see the project as inactive, it is most probably because I am doing local testing or I have some important stuff to do.
 
 ### Screenshots
 Some screenshots:
@@ -54,6 +56,12 @@ Some screenshots:
 - And there's a menu! _(NOTE: The settings button will open a `Settings dialog` which will save to `localStorage` -> Just to be technical here. In human speak, it basically saves the settings for you!! :smile:)_:
 ![And there's a menu!!](../img/market2/market2_6.jpg)
 
+<!--
+TODO: Add more screenshots
+Also update the screenshots
+-->
 For more screenshots, go [here](../img/market2)
 
 :heart: Support me on Github!
+
+:smile: Made with `Markdown`
