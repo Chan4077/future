@@ -8,7 +8,7 @@
 
 ---
 ### About market2
-What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2](https://github.com/angular/angularfirebase2), [Angular 2](https://github.com/angular/angular), [Angular Material 2](https://github.com/angular/material2), [Typescript](https://typescriptlang.org) and [Firebase](https://github.com/firebase) into one. <!--TODO: Make about longer-->
+What's this repo all about, you may ask. Well, it's a test of [Angularfirebase2](https://github.com/angular/angularfirebase2), [Angular 4](https://github.com/angular/angular), [Angular Material 2](https://github.com/angular/material2), [Typescript](https://typescriptlang.org) and [Firebase](https://github.com/firebase) into one. <!--TODO: Make about longer-->
 
 ### Current Status
 The website is currently in **BETA**.
@@ -22,18 +22,18 @@ The website is currently in **BETA**.
 
 **A.** The website is [here](https://market2-ed1e4.firebaseapp.com/market), ~~although if you view it now, it will show an error as I have not deployed the code yet and am testing it on [@angular/cli](https://github.com/angular/angular-cli).~~  **UPDATE**: The website should be loading now as I have already done `firebase deploy`. You should not be able to see any problems or issues as of now, but if you see one, please open a [new issue](https://github.com/Chan4077/market2/issues/new). **UPDATE No. 2:** The link to the website has updated.
 
-**Q.** How on earth do you deploy Angular2 code?
+**Q.** How on earth do you deploy `Angular2` code?
 
 **A.** Simple. Just use the [@angular/cli](https://github.com/angular/angular-cli). View the [wiki](https://github.com/angular/angular-cli/wiki) for more information about how to `init`, `build` and `serve`.
 
-**Q.** Where can I find the docs for Angular2 and AngularMaterial 2?
+**Q.** Where can I find the docs for `Angular4` and `Angular Material 2`?
 
-**A.** Here you go: [Angular2 Docs](https://angular.io) and [Angular Material 2 Docs](https://material.angular.io)
+**A.** Here you go: [Angular4 Docs](https://angular.io) and [Angular Material 2 Docs](https://material.angular.io)
 
 ### NOTES
 - I am planning to release a prerelease version every 1 week _(or 2 weeks?)_ <!--TODO: Decide for no. of weeks before next release-->
 - The reason why I changed the link to the website was because I had to change it when it comes out of beta, thus, I saved time by doing so earlier.
-- If you see the project as inactive, it is most probably because I am doing local testing or I have some important stuff to do.
+- If you see the project as inactive, it is most probably because I am doing local testing.
 
 ### Screenshots
 Some screenshots:
@@ -58,10 +58,10 @@ Some screenshots:
 
 <!--
 TODO: Add more screenshots
-Also update the screenshots
+Also update the screenshots for the new market2
 -->
 For more screenshots, go [here](../img/market2)
 
-:heart: Support me on Github!
+:heart: [Support me on Github](https://github.com/Chan4077)!
 
-:smile: Made with `Markdown`
+:smile: Made with `Markdown` and Github's online editor
